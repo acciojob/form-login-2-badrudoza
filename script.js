@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let btn=document.getElementById("submit");
+let btn=document.getElementById("button");
 btn.addEventListener("click",function(e){
 	e.preventDefault();
 	let input=document.querySelectorAll("form input");
